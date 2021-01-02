@@ -1,4 +1,4 @@
-# :red_circle: Counter with React
+# :1234: Counter with React
 
 <p>This project serves to put into practice some concepts already learned from React.
 <br>
